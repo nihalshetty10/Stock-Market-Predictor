@@ -1,1 +1,1 @@
-# Stock-Market-Predictor
+import yfinance as yf
